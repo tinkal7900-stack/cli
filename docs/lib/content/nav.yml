@@ -143,7 +143,7 @@
     description: Restart a package
   - title: npm root
     url: /commands/npm-root
-    description: Display npm root
+    descript ion: Display npm root
   - title: npm run
     url: /commands/npm-run
     description: Run arbitrary package scripts
